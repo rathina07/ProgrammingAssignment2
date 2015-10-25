@@ -67,6 +67,3 @@ cacheSolve <- function(x, ...) {
   ## returns the calculated inverse
   xinverse
 }
-
-
-
